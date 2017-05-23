@@ -1,0 +1,64 @@
+//
+// Prefix header for all source files of the 'FengZi' target in the 'FengZi' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+
+
+#import "ITTXibViewUtils.h"
+#import "ITTPromptView.h"
+#import "URLCONSTS.h"
+#import "UserManager.h"
+#import "UIViewController+GTAddition.h"
+#import "UIView+GTAddition.h"
+#import "ExtendNSLogFunctionality.h"
+#import "ITTDebug.h"
+#import "UIUtil.h"
+#import "ITTDataEnvironment.h"
+#import "CONSTS.h"
+#import "ITTAdditions.h"
+#import "ITTCommonMacros.h"
+#import "ITTCommonFunctions.h"
+#import "CoreData+MagicalRecord.h"
+#import "CommonUtils.h"
+#import "MobClick.h"
+
+#define IS_IOS_7 \
+({ \
+static NSUInteger _deviceSystemMajorVersion = -1; \
+static dispatch_once_t onceToken; \
+dispatch_once(&onceToken, ^{ \
+_deviceSystemMajorVersion = [[[[[UIDevice currentDevice] systemVersion] componentsSeparatedByString:@"."] objectAtIndex:0] intValue]; \
+}); \
+_deviceSystemMajorVersion >= 7; \
+})
+
+//ShareSDK
+#define SZ_ShareSDK_APP_KEY @"4b30a644379d"
+#define WW_MobSMS_AppKey @"630d43e2727b"
+#define WW_MobSMS_AppSecret @"90ad324bb573122d250e76701994601f"
+//ShareSDK - 微信
+#define SZ_ShareSDK_WEIXIN_APP_ID     @"wx67c140b444243f02"
+#define SZ_ShareSDK_WEIXIN_APP_SECRET @"be248ded3693223cd702df341099500e"
+//ShareSDK - 微博
+#define SZ_ShareSDK_WEIBO_APP_KEY         @"1140524127"
+#define SZ_ShareSDK_WEIBO_APP_SECRET      @"6fd564e6b8c39f4e9f35f5fb1a73e7c"
+#define SZ_ShareSDK_WEIBO_APP_RedirectURL @"http://www.knowesoft.com"
+//ShareSDK - QQ
+#define SZ_ShareSDK_QZONE_APP_KEY       @"101089506"
+#define SZ_ShareSDK_QZONE_APP_SECRET    @"4e8c9e387732a169a30d80105933e340"
+//友盟帐号
+#define SZ_Umeng_APP_KEY @"55b5afc467e58e6db600571e"
+
+#endif

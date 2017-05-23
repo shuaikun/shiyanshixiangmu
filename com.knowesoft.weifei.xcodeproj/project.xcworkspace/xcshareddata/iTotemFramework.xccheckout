@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BFEF9DCE-3FFB-44FB-8C6F-0ECFA3EA824C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iTotemFramework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9D7E388-E8BD-4486-B586-21FA68DA6044</key>
+		<string>svn://10.207.10.251/www.mall.com</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/src/iTotemFramework.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9D7E388-E8BD-4486-B586-21FA68DA6044</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B9D7E388-E8BD-4486-B586-21FA68DA6044</key>
+		<string>svn://10.207.10.251/www.mall.com</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://10.207.10.251/www.mall.com/ios/src/iTotemFramework.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9D7E388-E8BD-4486-B586-21FA68DA6044</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9D7E388-E8BD-4486-B586-21FA68DA6044</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mall</string>
+		</dict>
+	</array>
+</dict>
+</plist>

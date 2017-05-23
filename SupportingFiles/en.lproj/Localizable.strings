@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  iTotemFramework
+
+  Created by Sword on 13-12-19.
+  Copyright (c) 2013年 iTotemStudio. All rights reserved.
+*/
+"VERSION_CHECK_TITLE" = "Version Update";
+"VERSION_UPDATE_IMMEDIATELY" = "Immediately";
+"VERSION_UPDATE_REMIND_LATER" = "Remind Later";
+"VERSION_UPDATE_REMIND_NEVER" = "Remind Never";

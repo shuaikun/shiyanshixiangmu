@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A6CF738-B34D-43FF-91FF-3352B2BB0572</string>
+	<key>IDESourceControlProjectName</key>
+	<string>com.knowesoft.oax</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>c2296c99-9fc4-44db-be66-c920ebbbc5c4</key>
+		<string>svn://115.28.142.76</string>
+		<key>c2296c99-9fc4-44db-be66-c920ebbbc5c4++3703</key>
+		<string>svn://115.28.142.76/oax-ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>com.knowesoft.oax.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>c2296c99-9fc4-44db-be66-c920ebbbc5c4</key>
+		<string>../../../ios-oax</string>
+		<key>c2296c99-9fc4-44db-be66-c920ebbbc5c4++3703</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>c2296c99-9fc4-44db-be66-c920ebbbc5c4++3703</key>
+		<string>svn://115.28.142.76</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://115.28.142.76/oax-ios/com.knowesoft.oax.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>c2296c99-9fc4-44db-be66-c920ebbbc5c4++3703</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c2296c99-9fc4-44db-be66-c920ebbbc5c4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-oax</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c2296c99-9fc4-44db-be66-c920ebbbc5c4++3703</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oax-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

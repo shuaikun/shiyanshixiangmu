@@ -1,0 +1,9 @@
+{
+    "code": 0,
+    "result": {
+        "itunes_url": "https://itunes.apple.com/us/app/shen-zhen-jiao-jing/id512058573?mt=8&uo=4",
+        "appid": "512058573",
+        "bundleid": "com.SZWXCSJiaotongpindao.Jiaotongbobao",
+        "version": "4.4.2"
+    }
+}
