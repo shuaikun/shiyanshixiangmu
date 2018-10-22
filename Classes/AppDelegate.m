@@ -82,6 +82,7 @@ static AppDelegate *_appDelegate;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+	
     [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent];
     [[UIApplication sharedApplication] setStatusBarHidden:YES withAnimation:(UIStatusBarAnimationFade)];
     
@@ -93,6 +94,8 @@ static AppDelegate *_appDelegate;
         ITTDINFO(@"this is iphone 5 4-inch screen");
     }
     BOOL ok = true;
+	
+	
     //注册push
     if ([[UserManager sharedUserManager] needNotificaionMsg]) {
         ok = [self push_application:application didFinishLaunchingWithOptions:launchOptions];
